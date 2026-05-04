@@ -1,6 +1,22 @@
-.App {
-  text-align: center;
+@import url(
+"https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+
+body {
+  background-color: silver;
+  color: white;
+  font-family: "Roboto Mono", monospace;
 }
+ 
+.app-title {
+  color: white;
+  margin-top: 2rem;
+}
+
+.App {
+  text-align: left;
+}
+
 
 .App-logo {
   height: 40vmin;
